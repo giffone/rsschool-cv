@@ -1,1 +1,1 @@
-[# rsschool-cv](https://github.com/giffone/rsschool-cv/blob/gh-pages/cv.md "CV file by Galimzhanov Faizulla")
+[# rsschool-cv](https://giffone.github.io/rsschool-cv/cv "cv Galimzhanov Faizulla")
