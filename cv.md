@@ -10,7 +10,7 @@
 
 **telegram:** @GFaiz
 
-**github:** 
+**github:** [https://github.com/giffone](https://github.com/giffone)
 
 ## About me
 Hello! I am 37 years old, I have been studying programming for almost a year (starting from august 2021) since I entered `Alem School` - learning golang, javascript, rust.
