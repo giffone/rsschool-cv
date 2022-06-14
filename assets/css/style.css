@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;500;600;700&family=Source+Code+Pro:wght@300&display=swap');
+
+* {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    outline: none;
+    color: darkslategrey;
+    letter-spacing: 1px;
+    /* border: 1px cadetblue solid; */
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.header {
+    background-color: aliceblue;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    font-weight: 500;
+    padding: 0 20px;
+    line-height: 50px;
+    text-decoration: none;
+    transition: .3s;
+    color: coral;
+}
+
+.nav-link:hover {
+    color: cadetblue;
+}
+
+.section {
+    margin-bottom: 80px;
+}
+
+.profile {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-profile-title {
+    font-weight: 700;
+    font-size: 28px;
+}
+
+.section-profile-avatar {
+    max-width: 300px;
+    border-radius: 50%;
+    filter: brightness(1.3) grayscale(.4);
+    box-shadow: 0 1px 5px rgba(0, 0, 0, .2)
+}
+
+.section-title {
+    margin-left: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    text-transform: uppercase;
+    color: cadetblue;
+    letter-spacing: 3px;
+    margin-bottom: 10px;
+}
+
+.section-text {
+    text-align: justify;
+}
+
+.section-item {
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+.left {
+    text-align: right;
+    width: 30%;
+    font-weight: 600;
+}
+
+.left-symbol {
+    margin: 0 10px;
+    fill: cadetblue;
+}
+
+.link {
+    text-decoration: none;
+    color: coral;
+    transition: .3s;
+}
+
+.link:hover {
+    color: cadetblue;
+}
+
+.section-pre {
+    background-color: lightyellow;
+    border: 1px lightgrey solid;
+}
+
+code {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 14px;
+    color: black;
+}
+
+.footer {
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: aliceblue;
+}
+
+.rss {
+    width: 121px;
+    height: 45px;
+    background-image: url("/assets/img/rs_school_js.svg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
