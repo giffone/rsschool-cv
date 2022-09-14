@@ -40,8 +40,9 @@ function spinWords(string){
 
 ## Prog Education
 * Alem School (01 Edu) - Full Stack dev (2021 - ...)
-* Epam Golang United School - first stage (2022 - ...)
-* R S School Javascript Pre-School (2022 - ...)
+* Epam Golang United School - first stage (2022 - sep 2022)
+* R S School Javascript javascript pre-school (2022 - 2022)
+* Kolesa Backend Upgrade - golang, php (sep 2022 - ...)
 
 ## Experience
 * Own small railway logistic business (2016 - 2022)
