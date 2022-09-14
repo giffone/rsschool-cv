@@ -19,12 +19,12 @@ I started my first steps in programming while working in logistics, when I decid
 In addition to studying at school, I try to read specialized books, participate in parallel courses, hackathons, solve problems on `hackerrank` or `leetcode`, improve my english and etc.
 
 ## Skills
-- Golang (intermediate)
-- Javascript (basic)
-- HTML (basic)
-- CSS (basic)
-- Sqlite, MSSql, MySql
-- Linux
+- Golang (intermediate), Javascript (basic)
+- HTML (basic), CSS (basic)
+- Sqlite, MSSql, MySql, Postgres
+- Linux, bash
+- Docker
+- Github, Gitlab
 
 ## Code example (Codewars)
 ```js
@@ -39,13 +39,14 @@ function spinWords(string){
 ```
 
 ## Prog Education
-* Alem School (01 Edu) - Full Stack dev, (2021 - ...)
-* Epam Golang United School - first stage (2022 - ...)
-* R S School Javascript Pre-School (2022 - ...)
+* Alem School (01 Edu) - Full Stack dev (2021 - ...)
+* Epam Golang United School - first stage (2022 - sep 2022)
+* R S School Javascript javascript pre-school (2022 - 2022)
+* Kolesa Backend Upgrade - golang, php (sep 2022 - ...)
 
 ## Experience
-* Own small business - Railway logistic
-* No commercial experience in programming yet, only own projects
+* Own small railway logistic business (2016 - 2022)
+* Halyk Bank - Golang developer (sep 2022 - ...)
 
 ## Projects
 * Railway app (using MS Access, Visual Basic , MSSql)
